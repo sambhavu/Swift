@@ -1,0 +1,9 @@
+var cat=🐱
+var dog=🐶
+var lion=🦁
+var fox=🦊
+var owl=🦉
+var eagle=🦅
+var monkey=🐵
+var snake=🐍
+var shark=🦈
